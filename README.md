@@ -7,7 +7,7 @@
 
 ### About Me 🚀
 - 🌱  I’m a brazilian Fullstack developer</br>
-- 👨‍💻  I am passionate about Design and Web Development</br>
+- 👨‍💻  I am passionate about Development</br>
 
 <!-- ![Jonathan Lameira github stats](https://github-readme-stats.vercel.app/api?username=jlameirameli&show_icons=true&hide_border=true)&nbsp;&nbsp; -->
 
